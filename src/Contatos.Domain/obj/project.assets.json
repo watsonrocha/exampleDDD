@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contato.Domain\\Contato.Domain.csproj",
-      "projectName": "Contato.Domain",
-      "projectPath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contato.Domain\\Contato.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contatos.Domain\\Contatos.Domain.csproj",
+      "projectName": "Contatos.Domain",
+      "projectPath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contatos.Domain\\Contatos.Domain.csproj",
       "packagesPath": "C:\\Users\\watsonrocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contato.Domain\\obj\\",
+      "outputPath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contatos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\watsonrocha\\AppData\\Roaming\\NuGet\\NuGet.Config"
