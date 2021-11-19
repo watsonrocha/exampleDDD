@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qfyIThBueYcEg3/ehT3FuHZam7cOtHsaGzBW/OprBpdQeslxBUa/qPA6zCi4QAmYEty+Xq5SUFCtr5GQAMOukQ==",
+  "dgSpecHash": "pCPHnk9y8WvBBfp5FpH0P9boR6+m3i7w8rSee+x+TGuskZ4Gd1xYnvIapsPkU6iVtSH3+o/PUDPjIwVEqtkMXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contatos.Domain\\Contatos.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\watsonrocha\\Desktop\\Liberty\\exampleDDD\\src\\Contatos.domain\\Contatos.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\watsonrocha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\watsonrocha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
